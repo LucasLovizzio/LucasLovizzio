@@ -30,8 +30,8 @@
 
 ## 💡 Sobre mí
 
-Soy desarrollador backend enfocado en **Java + Spring Boot**, donde aplico principios SOLID, patrones de diseño, autenticación JWT, filtros y creación de APIs REST.  
-También aprendí **React** para comprender cómo el frontend consume mis servicios y ganar una visión más completa como futuro Fullstack.
+Soy desarrollador backend enfocado en **Java + Spring Boot**, donde aplico mis conocimientos en principios SOLID, patrones de diseño, autenticación JWT, filtros y creación de APIs REST.  
+También aprendí tencnologias de frontend como **React** y **Vue** para comprender cómo el frontend consume mis servicios y ganar una visión más completa como futuro Fullstack.
 
 Busco mi **primera experiencia profesional**, aprendiendo de un equipo sólido y aportando mis ganas, disciplina y capacidad técnica.
 
